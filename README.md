@@ -1,2 +1,3 @@
 # Mobile-Gallery-info
 "Mobile Gallery Info: Explore mobile images and descriptions with a click.
+"Mobile Gallery Info" is a user-friendly mobile application that allows users to view a collection of mobile phone images. With just a simple click on any image, users can access detailed descriptions of the featured mobile devices. This app provides a seamless and visually appealing way to explore and learn about various mobile phones, making it a valuable resource for tech enthusiasts and consumers looking to make informed decisions about their next mobile device purchase. Whether you're a smartphone aficionado or a curious shopper, "Mobile Gallery Info" offers a quick and informative way to explore the world of mobile technology.
